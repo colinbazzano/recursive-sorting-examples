@@ -1,4 +1,7 @@
 # Quick Sort
+"""
+this is a basic example of the methodology for Quick Sort.
+"""
 
 [5, 9, 3, 7, 2, 8, 1, 6]
 
